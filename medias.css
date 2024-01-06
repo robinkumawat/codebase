@@ -1,0 +1,42 @@
+@media screen and (Min-width:320px ) and (max-width:570px)
+ {
+    header
+    {
+      display: none;
+    }
+    header ul 
+    {
+        display: none;
+    }
+    .boxs
+    {
+        flex-direction: column;
+        margin-left: unset;
+    }
+    .bgcolor2
+    {
+        width: 100%;
+        height: auto;
+    }
+    .bgcolor
+    {
+        width: 100%;
+        height: auto;
+    }
+    .bgcolor img
+    {
+        width: 100%;
+        height: auto;
+    }
+    .boxs
+    {
+        flex-direction: column;
+        margin-left: unset;
+    }
+    .box1
+    {
+        margin: unset;
+        width: unset;
+    }
+    
+}

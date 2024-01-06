@@ -1,0 +1,183 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}  
+
+header a 
+{
+ text-decoration: none;
+ font-size: 40px;
+ font-weight: bold;
+ color: black;
+}
+header span
+{
+    color: blue;
+} 
+header
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 0px; 
+}
+header ul
+{
+    display: flex; 
+    list-style: none;
+    align-items: center;
+
+}
+.logo a
+{
+    font-size: 14px;
+    margin: 11px;
+    align-items: center;
+
+}
+header ul button
+{
+    background-color: rgb(65, 65, 232);
+    height: 40px;
+    width: 150px;
+    color: rgb(213, 230, 230);
+    margin-top: 20px; 
+    font-size: 15px;
+    
+} 
+.bgcolor
+{
+    height: 420px;
+    width: auto;
+    background-color: rgb(71, 25, 255);
+   text-align: center; 
+   padding-top: 100px;
+}
+.pa
+{
+    font-size: 70px;
+    color: #fff;
+}
+.para p
+{
+    font-size: 22px;
+    margin: 20px 0px;
+    color: #fff;
+
+}
+.bgcolor button
+{
+    height: 70px;
+    width: 180px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+button a
+{
+    font-size: 20px;
+    text-decoration: none;
+
+} 
+.opening h1
+{
+font-size: 40px;
+}
+.opening
+{
+    text-align: center;
+    margin-top: 40px;
+}
+.flex1
+{
+    display: inline-block;
+    display: flex;
+
+}
+.flex
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.loco
+{
+    height: 100px;
+    width: 900px;
+    margin: auto ;
+    
+}
+/* .loco:hover
+{
+    background-color: rgb(233, 229, 229);
+     border: 2px solid rgb(148, 143, 143);
+} */
+.fa-location-dot::before
+{
+    content: '\f041';
+}
+.heading
+{
+    display: flex;
+    margin: 5px;
+}
+.full
+{
+    margin-left: 10px;
+}
+.butn
+{
+    height: 30px;
+    width: 60px;
+    color: aliceblue;
+    background-color:#666666;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+}
+.butn a
+{
+color: #fff;
+text-decoration: none;
+}
+.butn:hover
+{
+    background-color: blue;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.head
+{
+    padding: 20px;
+    color: gray;
+}
+.color
+{
+    height: 70px;
+    width: auto;
+    background-color:#666666;
+}
+.footer h2 a
+{
+color: #fff;
+text-decoration: none;
+}
+/*.footer p 
+{
+    color: #fff;
+}*/
+.footer
+{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    color: white;
+}

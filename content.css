@@ -1,0 +1,243 @@
+ *
+{
+    margin: 0PX;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header a
+{
+ text-decoration: none;
+ 
+}
+header span
+{
+    color: blue;
+}
+header ul
+{
+    display: flex;
+    margin-left: 16px;
+    margin-right: 16px;
+} 
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+header ul li 
+{
+    margin: 16px;
+    color: black;
+    padding: 16px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+
+}   
+header ul button
+{
+    background-color: rgb(9, 9, 97);
+    height: 50px;
+    width: 120px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+header ul button a
+{
+    color: rgb(213, 230, 230);
+
+}
+.services
+{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 00px;
+}
+.color
+{
+    height: 600px;
+    width: 100%;
+    background-color:#6032ff;
+    margin-top: 30px;
+}
+.color h1
+{
+   padding: 70px 0px ; 
+   color: #fff;
+   font-weight: bolder;
+
+}
+.box
+{
+    display: flex;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.required
+{
+    color: red;
+}
+.box label
+{
+    color: #fff;
+}
+.boxs
+{
+    margin: 10px;
+}
+.First
+{
+    height: 40px;
+    width: 500px;
+}
+.First1
+{
+    height: 150px;
+    width: 1020px;
+}
+.box2
+{
+    overflow: scroll;
+
+}
+.bild
+{
+    height: 190px;
+    width: 500px;
+    border: 2px solid rgb(181, 179, 179);
+    position: relative;
+    margin: 10px;
+    border-radius: 20px;
+    justify-content: center;
+}
+.image img
+{
+    height: 120px;
+    width: 120px;
+    border-radius: 70px;
+    border: 2px solid #000;
+    position: absolute;
+    left: 205px;
+    top: -60px;
+}
+.image1 img
+{
+    height: 120px;
+    width: 120px;
+    border-radius: 70px;
+    border: 2px solid #000;
+    position: absolute;
+    left: 171px;
+    top: -54px;
+}
+.bild h2
+{  
+    margin-top: 60px;
+    text-align: center;
+}
+.bild p
+{
+    margin-top: 10px;
+    text-align: center;
+}
+.bilds
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.blank
+{
+  height: 500px;
+  margin-top: 60px; 
+}
+.hed
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+}
+.but
+{
+    height: 50px;
+    width: 130px;
+    background-color: #6032ff;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.but a
+{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.but a:hover
+   {
+    color: #000;
+   }
+
+
+ .bgcolor2
+ {
+    background-color: #4E0FEA;
+    height: 400px ;
+    width: 1519px;
+ }
+ .bgfoot img
+ {
+    max-width: 200px;
+    margin-left: 200px;
+    margin-top: 90px;
+ }
+ .logo1 a
+ {
+    color: #fff;
+    font-size: 25px;
+    margin: 5px;
+ }
+ .logo
+ {
+    margin-left: 200px;
+
+ }
+ .footer
+ {
+    display: flex;
+    margin-right: 100px;
+ }
+ .logomain
+ {
+    display: flex;
+    justify-content: space-between;
+ }
+ .footer li
+ {
+    color: #fff; 
+    margin: 13px;
+    font-size: 18px;
+    list-style: none;
+    
+ }
+ .parafoot p
+ {
+color: #fff;
+margin-left: 200px;
+font-size: 10px;
+ }
+ hr
+ {
+    margin-right: 100px;
+    margin-left: 200px;
+    color: #fff;
+    margin-bottom: 10px;
+ }

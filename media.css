@@ -1,0 +1,110 @@
+@media screen and (Min-width:320px ) and (max-width:570px)
+ {
+    header
+    {
+      display: none;
+    }
+    header ul 
+    {
+        display: none;
+    }
+    .main
+    {
+        flex-direction: column;
+    }
+    .company-icon-list 
+    {
+        flex-direction: column;
+    }
+    .mainbox
+    {
+        flex-direction: column;
+    }
+    .bgbox
+    {
+        flex-direction: column;
+    }
+    .head3
+    {
+        flex-direction: column;
+        margin-left: unset;
+    }
+    .head5
+    {
+        flex-direction: column;
+        margin-left: unset;
+    }
+    .bgimage h1
+    {
+        font-size: unset;
+    }
+    .bgbox1
+    {
+        width: unset;
+    }
+    .bgbox
+    {
+        margin-left: unset;
+        flex-direction: column;
+    }
+    .bgimage
+    {
+        height:unset;
+    }
+    .bgcolor1
+    {
+        flex-direction: column;
+        margin-left: unset;
+    }
+    .logomain
+    {
+        flex-direction: column;
+    }
+    .footer
+    {
+        flex-direction: column;
+    }
+    .head1
+    {
+        width: unset;
+    }
+    .bgcolor
+    {
+        width: unset;
+    }
+    .bgcolor2
+    {
+        width: unset;
+    }
+    .bgfoot img
+    {
+        margin-left: unset;
+    }
+    .keys
+    {
+        flex-direction: column;
+    }
+    .bgimage
+    {
+        padding: unset;
+    }
+    .code
+    {
+        margin-left: unset;
+        text-align: unset;
+    }
+    .button
+    {
+        margin-left: unset;
+        margin: unset;
+
+    }
+    .head p
+    {
+        margin-left: unset;
+    }
+    .head h1
+    {
+        margin-left: unset;
+    }
+}
